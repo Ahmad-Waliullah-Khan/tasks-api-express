@@ -17,7 +17,7 @@ Follow the instructions below to set up and run the project locally.
 1. Clone this repository to your local machine:
 
    ```
-   git clone <repository_url>
+   git clone git@github.com:Ahmad-Waliullah-Khan/tasks-api-express.git
    ```
 
 Navigate to the project directory:

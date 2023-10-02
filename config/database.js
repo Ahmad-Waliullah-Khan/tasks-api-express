@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize');
 
-module.exports = new Sequelize('infeedo_tasks', 'root', 'ahmad@123456', {
+module.exports = new Sequelize('DATABASE_NAME', 'DB_USERNAME', 'DB_PASSWORD', {
     host: 'localhost',
     dialect: 'mysql',
     pool: {
